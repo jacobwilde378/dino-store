@@ -38,9 +38,9 @@ ISC License
 
 ## Contributors
 ### Front End
-Anna Kaser        - Developer - https://github.com/akaser23
-Josh Miller       - Developer - https://github.com/OneCrinkleyFry
-Jordan Roberts    - Developer - https://github.com/jdrobs19
+* Anna Kaser      - Developer - https://github.com/akaser23
+* Josh Miller     - Developer - https://github.com/OneCrinkleyFry
+* Jordan Roberts  - Developer - https://github.com/jdrobs19
 
 ### Back End
 * Jordan Carver   - Developer - https://github.com/1jorcarver
