@@ -31,7 +31,10 @@ This application is for a e-comerce store that is catered to dinosaur themed ite
 Clone the repo to the desired directory and then run npm i to install all dependicies.  Then run 'npm start' and the application will start up both servers.
 You can also deploy this application to Herko.
 
+## Examples
 Demo Site:  https://ancient-lake-97986.herokuapp.com/
+
+ScreenShot:  https://github.com/jacobwilde378/dino-store/blob/main/readmeimages/LandingPage.png
 
 ## License
 ISC License
